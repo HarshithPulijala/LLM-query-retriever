@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+python-docx
+sentence-transformers
+faiss-cpu
+chromadb
+google-generativeai
+unstructured 
+python-dotenv 
